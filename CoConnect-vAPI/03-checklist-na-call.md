@@ -5,6 +5,8 @@ Wat hier staat, gaat vóór de handover als ze elkaar tegenspreken.
 
 ---
 
+> **Update 24 sep:** Lotte koos voor een 2-weekse kalender in plaats van één week. Die staat in `05-contentkalender-2-weken.md`: 12 posts (A 6 / B 4 / bedrijfspagina 2).
+
 ## 1. WAT DE CALL HEEFT VERANDERD
 
 | Onderwerp | Handover zei | Call zegt | Gevolg |
