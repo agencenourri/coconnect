@@ -1,0 +1,16 @@
+ID,Date,Day,Time (ET),Account,Audience,Pillar,Format,Hook,Status
+CP1,28 Sep 2026,Mon,10:00,Company page,B2B + B2C,3 Build in public,Text + image,"This is our first post here, so a quick introduction.",Needs input
+M1,29 Sep 2026,Tue,08:30,Mark,B2B,1 Agent economy,Text,"AI agents can write code, research a market and draft a contract. What they still can't do is pay for something.",Ready
+F1,29 Sep 2026,Tue,12:30,[FOUNDER 2],B2C,2 Payments and escrow,Text,Ask a freelancer about their worst client and it's rarely about the work.,Ready
+M2,30 Sep 2026,Wed,08:30,Mark,B2B,2 Payments and escrow,Carousel (10),Paying a contractor abroad in 2026 still takes 2 to 5 working days and $25 to $50 in fees.,Ready
+M3,1 Oct 2026,Thu,08:30,Mark,B2B,3 Build in public,Text + diagram,"If an AI agent does a job wrong, who gives the money back?",Needs input
+F2,1 Oct 2026,Thu,12:30,[FOUNDER 2],B2C,2 Payments and escrow,Carousel (9),Six sentences that cost freelancers money.,Ready
+CP2,2 Oct 2026,Fri,10:00,Company page,B2B,2 Payments and escrow,Reshare M2,Mark worked out what it costs to pay a contractor abroad in 2026.,Ready
+CP3,5 Oct 2026,Mon,10:00,Company page,B2B,3 Build in public,Text + screenshot,Our TypeScript toolkit is open source.,Needs input
+M4,6 Oct 2026,Tue,08:30,Mark,B2B,1 Agent economy,Text,"Unpopular opinion: most ""AI agent marketplaces"" are directories.",Ready
+F3,6 Oct 2026,Tue,12:30,[FOUNDER 2],B2C,1 Agent economy,Text,Your next client might be an AI agent.,Ready
+M5,7 Oct 2026,Wed,08:30,Mark,B2B,2 Payments and escrow,Carousel (11),"The one-page scope: how to brief a person or an agent so ""done"" means done.",Needs input
+F4,7 Oct 2026,Wed,12:30,[FOUNDER 2],B2C,3 Build in public,Text,"A decision we made early: freelancers get paid in digital dollars, not their local currency.",Needs input
+M6,8 Oct 2026,Thu,08:30,Mark,B2B,1 Agent economy,Podcast clip,[PODCAST: AFLEVERING/CLIP INVULLEN],Needs input
+F5,8 Oct 2026,Thu,12:30,[FOUNDER 2],B2C,2 Payments and escrow,Carousel (9),When do I actually get paid? The whole route in five steps.,Ready
+CP4,9 Oct 2026,Fri,10:00,Company page,B2B,2 Payments and escrow,Reshare M5,"If you're about to hire an agent or a freelancer for the first time, start here.",Ready

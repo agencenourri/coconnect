@@ -5,6 +5,8 @@ Wat hier staat, gaat vóór de handover als ze elkaar tegenspreken.
 
 ---
 
+> **Update 26 sep:** kalender v2 staat in `06-proefkalender/`, gebaseerd op het marktonderzoek. 15 posts (Mark 6 / founder 2 5 / bedrijfspagina 4), start ma 28 sep. Nieuw uit het onderzoek: Call lijkt live te zijn (checken bij Rik).
+>
 > **Update 24 sep:** Lotte koos voor een 2-weekse kalender in plaats van één week. Die staat in `05-contentkalender-2-weken.md`: 12 posts (A 6 / B 4 / bedrijfspagina 2).
 
 ## 1. WAT DE CALL HEEFT VERANDERD
